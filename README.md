@@ -1,6 +1,4 @@
 # ACTIIDAD-LOGIN
-Inicio de sesión 
-# ACTIVIDAD-LOGIN
 Proyecto para iniciar sesión 
 #1. 
 Al ingresar a la consola de firebase con nuestra cuenta de 
